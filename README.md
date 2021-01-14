@@ -1,6 +1,6 @@
-# URL Shortener Service
+# URL Shortener 
 
-> API to create short urls using Node, Express and MongoDB
+> This is a url-shortener used to create short urls using Node, Express and MongoDB
 
 ## Quick Start
 
